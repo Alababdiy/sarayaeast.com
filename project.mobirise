@@ -259,7 +259,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/sarayaeast.com-logo-and-icons-128x128.png",
-    "mbrsiteDomain": "chl3vnay11",
+    "mbrsiteDomain": "ywmk1sc1bu",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -270,7 +270,8 @@
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "global_footer_custom": "",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "global_header_custom": "<!-- Snap Pixel Code -->\n<script type='text/javascript'>\n(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()\n{a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};\na.queue=[];var s='script';r=t.createElement(s);r.async=!0;\nr.src=n;var u=t.getElementsByTagName(s)[0];\nu.parentNode.insertBefore(r,u);})(window,document,\n'https://sc-static.net/scevent.min.js');\n\nsnaptr('init', 'f20866de-bef2-419b-a20b-194eea4a2458', {\n'user_email': '__INSERT_USER_EMAIL__'\n});\n\nsnaptr('track', 'PAGE_VIEW');\n\n</script>\n<!-- End Snap Pixel Code -->"
   },
   "pages": {
     "index.html": {
